@@ -33,7 +33,7 @@ My name is Paulina Godoy, BIM tech specialist and Full-stack Python developer fr
 * UI/UX
 * JavaScript frameworks
 
---
+---
 #### Other Interests
 
 * Illustration 🖊️
