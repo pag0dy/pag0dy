@@ -1,6 +1,6 @@
 ### Hi!! 👋
 -------
-My name is Paulina Godoy, BIM tech specialist and Full-stack Python developer from Chile. I'm currently working as a technology consultant for [Planbim Chile](https://www.planbim.cl). I love to learn new things and help solve problems using open source tools, and I want to make BIM technology more accesible for everyone. I'm always looking to collaborate with interesting projects, so feel free to contact me so we can have a chat!💬
+My name is Paulina Godoy, Fullstack Python developer and BIM tech specialist from Chile. I'm currently working as a backend developer for [Talana](https://web.talana.com/). I love to learn new things and help solve problems using open source tools. I'm always looking to collaborate with interesting projects, so feel free to contact me so we can have a chat!💬
 
 ---
 #### My Work
@@ -13,6 +13,7 @@ My name is Paulina Godoy, BIM tech specialist and Full-stack Python developer fr
 
 * Python
 * Django
+* FastAPI
 * Flask
 * JavaScript
 * AJAX
