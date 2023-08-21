@@ -6,7 +6,7 @@ My name is Paulina Godoy, Fullstack Python developer and BIM tech specialist fro
 #### My Work
 * [iX web](https://pag0dy.pythonanywhere.com/) :  Simple website that allows uploading information from IFC files to a PostgreSQL database and exporting a structured xlsx report, using the [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) library.
 * [iX Desktop](https://github.com/pag0dy/iX) : A small python application to extract information from IFC files, producing a structured excel workbook.
-* [t3](https://github.com/pag0dy/t3) : This was my solo project to graduate from Coding Dojo's FullStack Python Bootcamp. It's a web app that helps to track the time people spend on different work tasks. I hope to add more features in the future, like reports with graphics, project specific meessaging and more, so if you're intrested stay tunned!
+* [Speecho](https://github.com/pag0dy/new-speecho) : A FastAPI application that uses Whisper.ai to transcript audio notes in spanish to docx text files. Currently working on the front-end for this little project.
 
 ---
 #### Coding Skills 💻
